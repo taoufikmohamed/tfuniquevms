@@ -1,0 +1,1 @@
+For_each to deploy 3 unique VMs that differ by their sizes  
